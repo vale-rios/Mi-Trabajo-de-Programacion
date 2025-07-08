@@ -41,6 +41,7 @@ section{
     box-shadow: 0 2px 5px rgba (0, 0, 0, 0.2);/*sombra suave*/
     margin-bottom: 40px;
     padding: 20px; /*espaciado interno*/
+    /*Estilos para la seleccion*/
 }
 h2{
     color: #fcfcfd; /* el texto sera blanco*/
